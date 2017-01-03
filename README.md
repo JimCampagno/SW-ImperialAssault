@@ -1,5 +1,7 @@
 # Star Wars: Imperial Assault
 
+![](http://i.imgur.com/y1LflAy.png?1)
+
 ### Trailer:  
 [![SW](http://img.youtube.com/vi/lFUkS6UvK3o/0.jpg)](https://www.youtube.com/watch?v=lFUkS6UvK3o "SW")
 
