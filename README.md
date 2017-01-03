@@ -8,7 +8,9 @@
 
 1. Click this [link](https://www.youtube.com/watch?v=UDZa6SdnAgo) and listen to the beautiful sounds as you continue to read the following instructions.
 
-2. Read the rule book [here](https://images-cdn.fantasyflightgames.com/filer_public/84/fc/84fcff54-eafe-45ec-acf4-538a86e1acfc/imperial_assault_learn_to_play_guide.pdf). Feel free to continue listening to Star Wars music as you read these rules.
+2. Read the rule book [here](https://images-cdn.fantasyflightgames.com/filer_public/84/fc/84fcff54-eafe-45ec-acf4-538a86e1acfc/imperial_assault_learn_to_play_guide.pdf). Feel free to continue listening to Star Wars music as you read these rules. If you're not a fan of reading, you can watch someone on YouTube go through the rules [here](https://youtu.be/sCXZfZSDTvw
+) (although I recommend reading the book as well!)
+
 
 3. You don't need to read all the way through the [rules reference guide](https://images-cdn.fantasyflightgames.com/filer_public/ef/86/ef866943-534b-429e-b8db-7d99875431b7/imperial_assault_rules_reference_guide.pdf). But I think it's important to skim through some parts of it to clarify any questions you might have. 
 
@@ -19,3 +21,4 @@
 ![](http://i.imgur.com/4rorTuV.jpg)
 
 ... game on.
+
